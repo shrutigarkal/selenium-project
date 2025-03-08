@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.tka.testcase.NewTest"/>
+      <class name="com.tka.testcase.DyamicXpath"/>
+      <class name="com.tka.testcase.DriverEg"/>
+      <class name="com.tka.testcase.TestData"/>
+      <class name="com.tka.testcase.test1"/>
+      <class name="com.tka.testcase.TestCaseCheck"/>
+      <class name="com.tka.testcase.TestCases4"/>
+      <class name="com.tka.testcase.DriverTest"/>
+      <class name="com.tka.testcase.HomeWork"/>
+      <class name="com.tka.testcase.test"/>
+      <class name="com.tka.testcase.SoftAssertTC"/>
+      <class name="com.tka.testcase.TC_AllAnnotation"/>
+      <class name="com.tka.testcase.AddUser_TC"/>
+      <class name="com.tka.testcase.NewRegistration_TestCase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
